@@ -30,7 +30,7 @@ This project is intended for development machines, test environments, CI environ
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rm-all-docker.git
+git clone https://github.com/GITburakdeniz/Docker-Full-Cleanup.git
 cd rm-all-docker
 ```
 
